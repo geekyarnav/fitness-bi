@@ -4,6 +4,7 @@
 2. The home must have a search bar for users to search through the different videos you have
 3. Simple drag and drop utility for someone to change the order of the videos. (This will be the default order of videos, when the search bar has an empty string)
 
-# start project
+# How to Run the Project
 npm install
-npm run
+npm start
+
