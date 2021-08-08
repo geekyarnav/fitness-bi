@@ -1,0 +1,28 @@
+.callto {
+  background-image: -webkit-linear-gradient(
+    65deg,
+    #fd6a4c 50%,
+    var(--global-company-color) 50%
+  );
+  margin-bottom: 0;
+  padding: 0 1rem;
+  color: white;
+}
+.callto__wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .services {
+    flex-direction: column;
+  }
+  .blog__entries {
+    flex-direction: column;
+  }
+  .article {
+    flex-basis: 16rem;
+  }
+}
