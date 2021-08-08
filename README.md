@@ -8,5 +8,5 @@
   # npm install
   # npm start
 
-# Made by Love from BoardInfinity 
+# Made by Love for SocailBoat
 
